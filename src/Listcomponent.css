@@ -1,0 +1,20 @@
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+button {
+    cursor: pointer;
+}
